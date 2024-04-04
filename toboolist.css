@@ -75,7 +75,7 @@ hr{
     margin-left: 2%;
 }
 ul {
-    list-style-type: &#9989;
+    list-style-type:  circle;
     
 }
 #Options{
@@ -88,9 +88,7 @@ ul {
     background-color: red;
     height: 20px;
     width: 60px;
-    border-radius: 5px;
-    
-    
+    border-radius: 6px;
     
 }
 
