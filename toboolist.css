@@ -85,6 +85,12 @@ ul {
     font-weight: bold;
     color: #071b33;
 }
+.white{
+    color: white;
+    text-align: center;
+    
+    
+}
 .BaseBox{
     background-color: #47adf1;
     height: 25px;
@@ -94,9 +100,6 @@ ul {
     margin-left: 10px;
     vertical-align: middle;
     margin-top: 6px;
-    
-    
-    
 }
 
     
