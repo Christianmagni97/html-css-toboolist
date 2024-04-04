@@ -1,0 +1,25 @@
+body{
+    background-color: #E3E3E3;
+}
+.rettangolobianco{
+    background-color: white;
+    width: 100%px;
+    height: 150px;
+    border border-radius: 5px;
+}
+#logo{
+    width: 120px;
+    height: auto;
+    padding-top: 15px;
+    padding-left: 40px;
+}
+main{
+    background-color: white;
+    width: 60%;
+    height: 1000px;
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 5px;
+
+    
+}
