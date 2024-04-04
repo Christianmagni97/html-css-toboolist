@@ -101,6 +101,39 @@ ul {
     vertical-align: middle;
     margin-top: 6px;
 }
+.BaseBox2{
+    background-color: #9c72e4;
+    height: 25px;
+    width: 80px;
+    border-radius: 6px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    margin-top: 6px;
+
+}
+.BaseBox3{
+    background-color: #64c0a9;
+    height: 25px;
+    width: 80px;
+    border-radius: 6px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    margin-top: 6px;
+
+}
+.BaseBox4{
+    background-color: #f29e32;
+    height: 25px;
+    width: 80px;
+    border-radius: 6px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    margin-top: 6px;
+
+}
 
     
                
