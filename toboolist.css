@@ -71,8 +71,9 @@ hr{
     color: #f6f8f9;
     margin-top: 15px;
 }
-.cerchio{
+.cerchio, {
     margin-left: 2%;
+    display: inline-block;
 }
 ul {
     list-style-type:  circle;
@@ -85,10 +86,16 @@ ul {
     color: #071b33;
 }
 .BaseBox{
-    background-color: red;
-    height: 20px;
-    width: 60px;
+    background-color: #47adf1;
+    height: 25px;
+    width: 80px;
     border-radius: 6px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    margin-top: 6px;
+    
+    
     
 }
 
